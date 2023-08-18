@@ -1,5 +1,5 @@
 # decibel model code file
- - 3. DECIBEL_MODEL
+ - 3_DECIBEL_MODEL
    - 모델 훈련 코드
  -  decibel_model_제출시연코드
    - 최종 제출 시 제출했던 코드
