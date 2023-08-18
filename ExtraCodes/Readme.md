@@ -1,1 +1,4 @@
-# STT conversion 관련 코드나 기타 kss코드, 등을 올리는 폴더입니다.
+# 데이터 전처리시 사용했던 코드를 정리한 파일입니다.
+ - STT conversion code
+ - KSS preprocessing code
+ - AI Hub men_counseler file path extraction code
