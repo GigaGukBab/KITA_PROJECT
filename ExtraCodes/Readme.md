@@ -2,3 +2,4 @@
  - STT conversion code
  - KSS preprocessing code
  - AI Hub men_counseler file path extraction code
+ - copy text, wav file from path csv files
